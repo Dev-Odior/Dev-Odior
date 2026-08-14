@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a backend-focused full-stack engineer who enjoys building products from the ground up and solving problems that go beyond basic CRUD.<br><br>I primarily work with TypeScript and Node.js on the backend, building APIs, real-time systems, microservices, and integrations. On the frontend, I work with React, Next.js, and React Native to build web and mobile applications.<br><br>What I work with<br>Backend: Node.js, NestJS, Express, TypeScript<br>Frontend: React, Next.js, React Native, Tailwind CSS<br>Databases: PostgreSQL, MySQL, Redis<br>Architecture: REST APIs, WebSockets, gRPC, microservices, messaging systems<br>Infrastructure: Docker, AWS, Linux, Nginx, PM2<br>Integrations: Payments, third-party APIs, external services<br><br>I enjoy building real-world systems, especially products involving complex business logic, real-time communication, distributed systems, and integrations.<br><br>I'm constantly learning, building, and pushing myself to become a stronger engineer — particularly in backend architecture, system design, and scalable distributed systems.<br><br>Build. Break. Learn. Build better.
 
 
