@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Engineer** who enjoys building products from the ground up and solving problems that go beyond basic CRUD.
 
-I primarily work with **TypeScript** and **Node.js** on the backend — building APIs, real-time systems, microservices, and integrations. On the frontend, I use **React**, **Next.js**, and **React Native** to ship web and mobile apps.
+I primarily work with **TypeScript** and **Node.js** on the backend building APIs, real-time systems, microservices, and integrations. On the frontend, I use **React**, **Next.js**, and **React Native** to ship web and mobile apps.
 
 ### What I Work With
 - **Backend:** Node.js, NestJS, Express, TypeScript
@@ -13,7 +13,7 @@ I primarily work with **TypeScript** and **Node.js** on the backend — building
 - **Integrations:** Payments, third-party APIs, external services
 
 ### What Drives Me
-I enjoy building real-world systems — especially products with complex business logic, real-time communication, distributed systems, and integrations. I'm constantly pushing myself to grow, particularly in backend architecture, system design, and scalable distributed systems.
+I enjoy building real-world systems, especially products with complex business logic, real-time communication, distributed systems, and integrations. I'm constantly pushing myself to grow, particularly in backend architecture, system design, and scalable distributed systems.
 
 > Build. Break. Learn. Build better.
 ## Socials
